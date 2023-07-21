@@ -1,0 +1,6 @@
+.chalice/credentials.json
+.venv/
+.git/
+.idea/
+__pycache__/
+.chalice/
