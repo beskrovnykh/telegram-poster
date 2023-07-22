@@ -4,3 +4,4 @@
 .idea/
 __pycache__/
 .chalice/
+chalicelib/client_secret.json
